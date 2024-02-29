@@ -2,7 +2,7 @@ repo_name: nvtam2105/quill
 report_id: 2db1d08a52347d37038e0332ebc51f23
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:53:00+00:00'
+timestamp: '2024-02-29T18:36:40+00:00'
 requested_by: joschan21
 provider: github
 branch: master
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Joscha
   last_updated_on: 2023-09-21 17:30:51.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.5.2
   open_source: true
